@@ -1,128 +1,16 @@
-# Cusco en Ruedas / Cusco In Wheelchair
-## Turismo accesible, viajes bien planificados en Cusco
+# Cusco In Wheel
+Agencia de viajes especializada en turismo accesible en Cusco.
 
-Cusco en Ruedas / Cusco In Wheelchair es una agencia de viajes especializada en turismo accesible en Cusco, dedicada al diseño y operación de experiencias turísticas seguras, cómodas y realistas para personas usuarias de silla de ruedas y viajeros con movilidad reducida.
+## Sobre el proyecto
+Cusco In Wheel diseña y opera experiencias turísticas seguras, reales y planificadas
+para personas con discapacidad motora y movilidad reducida.
 
-Nuestra agencia nace de una necesidad clara: Cusco es uno de los destinos culturales más importantes del mundo, pero también uno de los más complejos en términos de accesibilidad. La infraestructura histórica, las calles empedradas, los desniveles y la falta de información confiable hacen que viajar sin una planificación especializada represente un riesgo para muchos viajeros.
+## Web pública
+Activa GitHub Pages y visita:
+https://TUUSUARIO.github.io/cusco-in-wheel/
 
-En Cusco en Ruedas no adaptamos tours tradicionales. Diseñamos cada experiencia desde cero, evaluando previamente rutas, atractivos turísticos, accesos, tiempos de desplazamiento, transporte y servicios complementarios. Esto nos permite ofrecer información honesta, evitar falsas expectativas y garantizar una experiencia de viaje digna y segura.
-
-Trabajamos con un enfoque humano y personalizado. Cada pasajero tiene necesidades distintas, por ello planificamos los viajes de forma individual, brindando acompañamiento antes, durante y después del servicio. Nuestro objetivo es que el viajero disfrute Cusco con tranquilidad, sin improvisaciones y sin barreras innecesarias.
-
----
-
-## Qué problema resolvemos
-
-El turismo en Cusco presenta múltiples barreras para personas con movilidad reducida. La falta de accesibilidad física en muchos atractivos, la ausencia de servicios turísticos especializados y la desinformación generan experiencias incompletas, frustración y desconfianza en el destino.
-
-Cusco en Ruedas responde a este problema mediante una planificación realista, evaluación previa de cada ruta y un enfoque especializado en turismo accesible, reduciendo riesgos y mejorando la calidad de la experiencia turística.
-
----
-
-## Nuestra propuesta de valor
-
-Ofrecemos turismo accesible diseñado desde la experiencia real del viajero.  
-El pasajero no se adapta al tour; el tour se adapta al pasajero.
-
-Nuestra propuesta se basa en:
-- Planificación anticipada y personalizada  
-- Evaluación real de accesibilidad  
-- Información clara y transparente  
-- Asistencia permanente  
-- Ritmos de viaje flexibles  
-- Experiencias seguras, cómodas y dignas  
-
----
-
-## Servicios y experiencias accesibles
-
-Diseñamos y operamos experiencias turísticas accesibles en Cusco y sus alrededores, entre ellas:
-
-- **Cusco Histórico Accesible**  
-  Recorridos culturales planificados en el Centro Histórico, priorizando espacios con condiciones reales de accesibilidad.
-
-- **Valle Sagrado Accesible**  
-  Programas de uno o varios días que integran paisaje, cultura viva y servicios adaptados.
-
-- **Machu Picchu Accesible – Experiencia Premium**  
-  Programa especializado que combina transporte privado accesible, tren turístico y circuitos permitidos para personas con movilidad reducida, con planificación logística integral.
-
-Cada servicio es evaluado previamente y ajustado a las necesidades específicas del pasajero.
-
----
-
-## Tecnología inclusiva OASIS
-
-Cusco en Ruedas incorpora la tecnología de Realidad Aumentada **OASIS** como herramienta de apoyo para enriquecer la experiencia turística en espacios donde la accesibilidad física es limitada.
-
-Esta tecnología permite acceder a:
-- Contenido cultural y patrimonial  
-- Reconstrucciones virtuales de espacios históricos  
-- Información interactiva y audiovisual  
-- Explicaciones complementarias sin desplazamientos complejos  
-
-OASIS no reemplaza la experiencia presencial; la complementa y la hace más accesible.
-
----
-
-## A quiénes atendemos
-
-Nuestros servicios están dirigidos a:
-- Personas usuarias de silla de ruedas  
-- Personas con discapacidad motora  
-- Adultos mayores con movilidad reducida  
-- Familias y acompañantes  
-- Turistas nacionales e internacionales que buscan viajes accesibles y seguros  
-
----
-
-## Por qué elegir Cusco en Ruedas
-
-Nos diferenciamos por:
-- Especialización exclusiva en turismo accesible  
-- Diseño de experiencias desde cero  
-- Evaluación previa de rutas y servicios  
-- Enfoque humano, ético e inclusivo  
-- Comunicación honesta y sin falsas promesas  
-- Acompañamiento integral antes, durante y después del viaje  
-
----
-
-## Identidad visual y experiencia de usuario
-
-### Paleta de color
-- Azul principal (confianza): **#0A3D91**  
-- Azul secundario (acción): **#0069A3**  
-- Blanco base (lectura): **#F7F9FC**  
-- Gris oscuro (texto): **#1F2933**  
-- Verde inclusión (accesibilidad): **#2E7D32**
-
-### Tipografía
-- Entorno GitHub (README): tipografía por defecto del sistema (Inter / System UI).
-- Web y landing futura:
-  - Títulos: **Poppins** o **Montserrat**
-  - Texto: **Inter** o **Roboto**
-
-### Animaciones (solo para versión web)
-- Aparición suave de secciones (fade-in / slide-up).
-- Hover sutil en botones y tarjetas.
-- Sin animaciones invasivas ni distractoras.
-- Prioridad en legibilidad y accesibilidad.
-
----
-
-## Nuestra visión
-
-Ser una agencia referente en turismo accesible en Cusco, promoviendo la inclusión, la igualdad de oportunidades y el derecho de todas las personas a disfrutar del turismo de manera segura, responsable y sin barreras.
-
----
-
-## Contacto
-
-📍 Cusco – Perú  
-📩 Canal de contacto directo  
-🌐 Redes sociales oficiales  
-
----
-
-**Cusco en Ruedas: viajar es un derecho, no un privilegio.**
+## Enfoque
+- Turismo accesible
+- Planificación realista
+- Atención humana
+- Experiencias sin barreras
